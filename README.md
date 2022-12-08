@@ -6,7 +6,7 @@ en esta intruccion  es un crud en el que No se consideraron buenas practicas si 
 ## alter user 'root'@'localhost' identify with 
 ## msql_native_password by 'aqui va tu password';
 
-## dentro de mySQL Workbench ya que mySQL por defecto no crea contraseñas y se require dar este permiso en algunos casos 
+dentro de mySQL Workbench ya que mySQL por defecto no crea contraseñas y se require dar este permiso en algunos casos 
 
 ## checa la documentación: https://docs.oracle.com/cd/B19306_01/server.102/b14200/statements_4003.htm
 
